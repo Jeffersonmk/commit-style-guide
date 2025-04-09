@@ -82,5 +82,6 @@ console.log('Exemplo de código');
 
 ---
 
-Feito por **Jeffersonmk** 🧠
+👨‍💻 Licença: MIT (ver arquivo `LICENSE`)
+📬 Contato: [jefferson20042011@protonmail.com]
 

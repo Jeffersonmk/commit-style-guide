@@ -126,5 +126,5 @@ git rm --cached arquivo.txt
 
 ---
 
-Feito por **Jeffersonmk** 🚀
-
+👨‍💻 Licença: MIT (ver arquivo `LICENSE`)
+📬 Contato: [jefferson20042011@protonmail.com]

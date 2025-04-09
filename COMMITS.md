@@ -1,34 +1,3 @@
-![Banner do Projeto](./img/banner.png)
-
-# 📘 Guia de Commits Estruturados
-
-Este repositório contém um guia completo para escrever mensagens de commit de forma padronizada, clara e eficiente, usando o padrão **Conventional Commits**.
-
-## 🧭 Objetivo
-Organizar e padronizar o histórico de versões de projetos, tornando o desenvolvimento mais colaborativo, compreensível e fácil de manter.
-
----
-
-## 📚 Índice do Repositório
-
-- [`COMMIT-STYLE-GUIDE.md`](./Commit-style-guide): Guia de commits estruturados (este arquivo)
-- [`MARKDOWN.md`](./MARKDOWN.md): Sintaxe básica de Markdown
-- [`GIT.md`](./GIT.md): Comandos e boas práticas com Git
-- [`BRANCHES.md`](./BRANCHES.md): Estratégias de ramificação no Git
-- [`LICENSE`](./LICENSE): Licença do projeto (MIT)
-
-### 📦 Download dos Arquivos Individuais
-
-Você pode baixar os arquivos separadamente aqui:
-
-- [📄 Commit-style-guide.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/Commit-style-guide.md)
-- [📄 MARKDOWN.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/MARKDOWN.md)
-- [📄 GIT.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/GIT.md)
-- [📄 BRANCHES.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/BRANCHES.md)
-- [📜 LICENSE](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/LICENSE)
-
----
-
 # ✅ Tipos de Commit
 
 ### `feat` → **Nova funcionalidade**
@@ -118,19 +87,5 @@ git commit -m "feat: criar componente de login"
 
 ---
 
-# 📂 Organização futura
-Este repositório pode incluir outros guias, como:
-
-- MARKDOWN.md → Guia de sintaxe Markdown
-- GIT.md → Comandos e boas práticas com Git
-- BRANCHES.md → Estratégia de ramificação
-
----
-
-> Feito para desenvolvedores que valorizam código limpo, histórico legível e colaboração eficiente.
-
----
-
 👨‍💻 Licença: MIT (ver arquivo `LICENSE`)
 📬 Contato: [jefferson20042011@protonmail.com]
-

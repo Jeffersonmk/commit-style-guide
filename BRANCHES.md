@@ -35,9 +35,5 @@ git checkout -b release/1.0.0
 
 ---
 
-> Feito para desenvolvedores que valorizam código limpo, histórico legível e colaboração eficiente.
-
----
-
 👨‍💻 Licença: MIT (ver arquivo `LICENSE`)
 📬 Contato: [jefferson20042011@protonmail.com]
