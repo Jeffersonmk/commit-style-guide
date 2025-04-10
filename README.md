@@ -11,7 +11,8 @@ Organizar e padronizar o histórico de versões de projetos, tornando o desenvol
 
 ## 📚 Índice do Repositório
 
-- [`README.md`](./README): Guia de commits estruturados (este arquivo)
+- [`README.md`](./README): O indice do projeto.
+- [`COMMITS.md`](./COMMITS.md): Guia de commits estruturados
 - [`MARKDOWN.md`](./MARKDOWN.md): Sintaxe básica de Markdown
 - [`GIT.md`](./GIT.md): Comandos e boas práticas com Git
 - [`BRANCHES.md`](./BRANCHES.md): Estratégias de ramificação no Git
@@ -25,7 +26,7 @@ Você pode baixar os arquivos separadamente aqui:
 - [📄 MARKDOWN.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/MARKDOWN.md)
 - [📄 GIT.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/GIT.md)
 - [📄 BRANCHES.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/BRANCHES.md)
-- [📄 BRANCHES.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/BRANCHES.md)
+- [📄 COMMITS.md](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/COMMITS.md)
 - [📜 LICENSE](https://raw.githubusercontent.com/Jeffersonmk/commit-style-guide/main/LICENSE)
 
 ---
